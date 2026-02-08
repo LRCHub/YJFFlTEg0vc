@@ -1,0 +1,112 @@
+{
+  "version": 1,
+  "base_track": "Great Distance",
+  "base_artist": "ryo (supercell)",
+  "createdAt": "2026-02-08T14:02:40.725117Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "Great Distance",
+      "artist": "ryo (supercell) feat. Chelly",
+      "has_synced": true,
+      "path": "select/01_Great_Distance_ryo_(supercell)_feat._Chelly.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "The Great Distance",
+      "artist": "Rapture",
+      "has_synced": false,
+      "path": "select/02_The_Great_Distance_Rapture.txt"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "The Great Distance",
+      "artist": "Avion Roe",
+      "has_synced": true,
+      "path": "select/03_The_Great_Distance_Avion_Roe.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "Great Distance",
+      "artist": "ryo (supercell)/Chelly",
+      "has_synced": true,
+      "path": "select/04_Great_Distance_ryo_(supercell)_Chelly.lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "Great Distance",
+      "artist": "The Autumn Offering",
+      "has_synced": true,
+      "path": "select/05_Great_Distance_The_Autumn_Offering.lrc"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "Great Distance",
+      "artist": "ryo (supercell)",
+      "has_synced": false,
+      "path": "select/06_Great_Distance_ryo_(supercell).txt"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "A Great Distance",
+      "artist": "The Autumn Offering",
+      "has_synced": true,
+      "path": "select/07_A_Great_Distance_The_Autumn_Offering.lrc"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "Great Distance (feat. Chelly)",
+      "artist": "ryo (supercell)",
+      "has_synced": true,
+      "path": "select/08_Great_Distance_(feat._Chelly)_ryo_(supercell).lrc"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "Great Distance (ft. chelly)",
+      "artist": "supercell",
+      "has_synced": true,
+      "path": "select/09_Great_Distance_(ft._chelly)_supercell.lrc"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "From a Great Distance...",
+      "artist": "The Digital Age",
+      "has_synced": false,
+      "path": "select/10_From_a_Great_Distance..._The_Digital_Age.txt"
+    },
+    {
+      "id": "lrclib_11",
+      "source": "lrclib",
+      "title": "Great Distance",
+      "artist": "ryo",
+      "has_synced": true,
+      "path": "select/11_Great_Distance_ryo.lrc"
+    },
+    {
+      "id": "lrclib_12",
+      "source": "lrclib",
+      "title": "The Great Distance",
+      "artist": "The Rapture",
+      "has_synced": false,
+      "path": "select/12_The_Great_Distance_The_Rapture.txt"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "Great Distance",
+      "artist": "ryo(supercell) feat. chelly",
+      "has_synced": false,
+      "path": "select/pl_01_Great_Distance_ryo(supercell)_feat._chelly.txt"
+    }
+  ]
+}
